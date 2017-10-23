@@ -1,3 +1,5 @@
+#Othello
+
 import collections
 
 import math
